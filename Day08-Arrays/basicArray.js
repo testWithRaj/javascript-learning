@@ -34,3 +34,12 @@ console.log(marks1);
 
 const array=[12,23,23,35];
 console.log(array.slice(2,4));
+
+
+//merging two array
+const arr1=["Raj",81,9, true];
+const arr2=["kumar",82,10,false];
+
+const arr3 =arr1.concat(arr2);
+
+console.log(arr3);
