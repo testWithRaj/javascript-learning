@@ -40,3 +40,27 @@ let person2 =
 }
 
 console.log(person2);
+
+//object with an array
+
+let person3 = {
+    name: "Raj",
+    age: 31,
+    skills: ["Java", "JavaScript", "SQL"]
+};
+
+console.log(person3.skills);
+
+console.log(person3.skills[1]);
+
+//Object inside an object 
+
+let person4 = {
+    name: "Raj",
+    address: {
+        city: "Hyderabad",
+        state: "Telangana"
+    }
+};
+
+console.log(person4.address);
