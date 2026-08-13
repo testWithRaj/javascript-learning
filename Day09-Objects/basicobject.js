@@ -28,3 +28,15 @@ console.log(person.job);
 delete person.location;
 
 console.log(person);
+
+// Object can contain different data types
+
+let person2 =
+{
+    name2:"Kumar",
+    age: 35,
+    isMarried: true,
+    salary: 10000
+}
+
+console.log(person2);
