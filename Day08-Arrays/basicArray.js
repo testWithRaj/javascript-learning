@@ -16,3 +16,15 @@ console.log(marks1);
 // add new element at the end of an array > we can do that using push operations
 marks1.push("kumar");
 console.log(marks1);
+
+//delete element from the end
+marks1.pop();
+console.log(marks1);
+// add element at first place
+
+marks1.unshift(29);
+console.log(marks1);
+
+//delete element from first place
+marks1.shift();
+console.log(marks1);
