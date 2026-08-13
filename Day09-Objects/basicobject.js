@@ -17,3 +17,14 @@ console.log(person.location);
 person.age =36;
 
 console.log(person.age);
+
+// Adding new element 
+person.job = "QA";
+
+console.log(person.job);
+
+//Deleting element
+
+delete person.location;
+
+console.log(person);
