@@ -28,3 +28,9 @@ console.log(marks1);
 //delete element from first place
 marks1.shift();
 console.log(marks1);
+
+
+//slicing array
+
+const array=[12,23,23,35];
+console.log(array.slice(2,4));

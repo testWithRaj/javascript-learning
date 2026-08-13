@@ -13,3 +13,5 @@ let arr2=arr1;
 arr2.push(90);
 
 console.log(arr1);
+
+//
