@@ -74,3 +74,13 @@ let person5 = {
 };
 
 console.log(person5.address);
+
+let person6 = {
+    name: "Kumar",
+    address: {
+        city: "Dhanbad",
+        state: "Jharkhand"
+    }
+};
+
+console.log(person6.address);
