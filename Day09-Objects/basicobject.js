@@ -64,3 +64,13 @@ let person4 = {
 };
 
 console.log(person4.address);
+
+let person5 = {
+    name: "Aarti",
+    address: {
+        city: "Hyderabad",
+        state: "Telangana"
+    }
+};
+
+console.log(person5.address);
