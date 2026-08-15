@@ -94,3 +94,13 @@ let person7 = {
 };
 
 console.log(person7.address);
+
+let person9 = {
+    name: "Kumar",
+    address: {
+        city: "Dhanbad * giridih",
+        state: "Jharkhand"
+    }
+};
+
+console.log(person9.address);
