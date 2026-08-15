@@ -15,3 +15,9 @@ arr2.push(90);
 console.log(arr1);
 
 //
+
+let arr4 = [10,20,30,70,80];
+for(let i=0;i<=arr.length;i++)
+{
+    console.log(arr4[i]);
+}
